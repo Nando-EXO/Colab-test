@@ -1,1 +1,4 @@
 # test
+REPO
+HASH
+CLONE
